@@ -2,7 +2,7 @@
 Button templates referenced bootstrap css. Like in reference primary, success, nfo, warning and danger buttons are avaliable in project files. Icons can be changed in necessary
 
 Usage
-
+```xaml
 <ec:ECButton Content="Primary Normal" Style="{StaticResource PrimaryNormalButton}" />
 <ec:ECButton Content="Primary Small" Style="{StaticResource PrimarySmallButton}" />
 <ec:ECButton Content="Danger Normal" Style="{StaticResource DangerNormalButton}" />
